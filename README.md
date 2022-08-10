@@ -19,4 +19,4 @@
 
 ## Tecnologias Utilizadas:
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Testing Library](https://img.shields.io/badge/-react-testing-library-purple?style=for-the-badge&logo=react-testing-library&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-RTL-purple?style=for-the-badge&logo=react-testing-library&logoColor=white)
